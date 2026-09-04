@@ -1,0 +1,9 @@
+Thanks to https://github.com/GXTX/YACardEmu for all the legwork.
+
+Thanks to this thread for a ton of information from my lurking
+https://www.arcade-projects.com/threads/naomi-2-chihiro-triforce-card-reader-emulator-initial-d3-wmmt-mario-kart-f-zero-ax.814/
+
+This project creates a small emulator for the Card reader on Naomi 2.  With some controls from web, my end basis is going to be adding a DB to save cards
+and select cards by a phone app and NFC.
+
+I used a NODEMCU-32 to a MAX3232 TTL to RS232 (Serial) converter to communicate with the Naomi 2.

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArduinoSettingsState">
+    <option name="espIdfPath" value="$USER_HOME$/esp/esp-idf" />
+    <option name="arduinoCliPath" value="$USER_HOME$/.local/bin/arduino-cli" />
+    <option name="comPort" value="ttyUSB1" />
+    <option name="serialPort" value="ttyUSB1" />
+    <option name="activeBackend" value="platformio" />
+  </component>
+</project>
