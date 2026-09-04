@@ -7,3 +7,5 @@ This project creates a small emulator for the Card reader on Naomi 2.  With some
 and select cards by a phone app and NFC.
 
 I used a NODEMCU-32 to a MAX3232 TTL to RS232 (Serial) converter to communicate with the Naomi 2.
+
+More info on https://www.matthewfonggrasin.com/initialD3Cab.php
